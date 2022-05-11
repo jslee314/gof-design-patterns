@@ -11,7 +11,8 @@ public class FacebookIterator implements ProfileIterator {
     private Facebook facebook;
     private String type;
     private String email;
-    private int currentPosition = 0;
+    private int
+            currentPosition = 0;
     private List<String> emails = new ArrayList<>();
     private List<Profile> profiles = new ArrayList<>();
 
