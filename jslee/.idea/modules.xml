@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ch1_Abstract_Factory/ch1_Abstract_Factory.iml" filepath="$PROJECT_DIR$/ch1_Abstract_Factory/ch1_Abstract_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01_Abstract_Factory/ch1_Abstract_Factory.iml" filepath="$PROJECT_DIR$/ch01_Abstract_Factory/ch1_Abstract_Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/jslee.iml" filepath="$PROJECT_DIR$/jslee.iml" />
     </modules>
   </component>
