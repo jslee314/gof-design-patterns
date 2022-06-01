@@ -1,0 +1,16 @@
+import generator.NumberGenerator;
+import generator.RandomNumberGenerator;
+import observer.DigitObserver;
+import observer.GraphObserver;
+import observer.Observer;
+
+public class Main {
+    public static void main(String[] args) {
+        NumberGenerator generator = new RandomNumberGenerator();
+        Observer observer1 = new DigitObserver();
+        Observer observer2 = new GraphObserver();
+        generator.addObserver(observer1);
+        generator.addObserver(observer2);
+        generator.execute();
+    }
+}

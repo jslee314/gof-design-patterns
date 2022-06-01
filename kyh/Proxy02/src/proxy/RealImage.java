@@ -5,6 +5,7 @@ public class RealImage implements Image {
 
     public RealImage(String fileName) {
         this.fileName = fileName;
+        loadFromDisk(fileName);
     }
 
     private void loadFromDisk(String fileName) {
