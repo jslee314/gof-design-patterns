@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jslee/ch1_Abstract_Factory/ch1_Abstract_Factory.iml" filepath="$PROJECT_DIR$/jslee/ch1_Abstract_Factory/ch1_Abstract_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gof-design-pattern.iml" filepath="$PROJECT_DIR$/.idea/gof-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jslee/jslee.iml" filepath="$PROJECT_DIR$/jslee/jslee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seahn/seahn.iml" filepath="$PROJECT_DIR$/seahn/seahn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sypark/sypark.iml" filepath="$PROJECT_DIR$/sypark/sypark.iml" />
+    </modules>
+  </component>
+</project>
