@@ -15,6 +15,9 @@
       <sourceFolder url="file://$MODULE_DIR$/ch10_Facade" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch15_Interpreter" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch16_Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch01_Abstract_Factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch02_Builder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05_Singleton" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
