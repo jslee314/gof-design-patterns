@@ -1,5 +1,5 @@
 
-# Iterator
+# Strategy
 
 ## :bell: Intent
 기본 표현(목록, 스택, 트리 등)을 노출하지 않고 컬렉션의 요소를 탐색할 수 있습니다.

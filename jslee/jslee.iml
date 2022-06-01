@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ch01_Abstract_Factory" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch02_Builder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch05_Singleton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch21_Strategy" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
