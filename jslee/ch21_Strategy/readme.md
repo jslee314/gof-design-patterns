@@ -10,19 +10,10 @@
 데모 클래스인 StrategyPatternDemo는 Context 및 전략 개체를 사용하여 배포하거나 사용하는 전략에 따라 Context 동작의 변화를 보여줍니다.
 
 
-## :bell: Motivation
-:cold_sweat:발생 가능한 문제
->컬렉션은 프
-
-:blush:해결책
->Iterator 패턴의 주요 아이디어는 `컬렉션의 순회 동작을 ite`
-> 
-
 ## :balloon: Structure of classes
-```mermaid
-classDiagram
-      Iterator <|-- ConcreteIterators
-```
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/40026846/171395932-aa05a025-7454-42e7-aed8-071aec95b25a.png">
+
+
 1. `Context`   
 - Context는 구체적인 전략 중 하나에 대한 참조를 유지하고 전략 인터페이스를 통해서만 이 객체와 통신합니다. (navigator)
 
@@ -70,12 +61,4 @@ java.util.Comparator#compare(), executed by among others Collections#sort().
 javax.servlet.http.HttpServlet, the service() and all doXXX() methods take HttpServletRequest and HttpServletResponse and the implementor has to process them (and not to get hold of them as instance variables!).
 javax.servlet.Filter#doFilter()
 
-
-
-
-## :bulb: Example Code
-**1) 소셜 네트워크 프로필 반복**
-이 
-**2) 이름 반복**
-It
 
